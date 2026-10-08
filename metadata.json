@@ -1,0 +1,6 @@
+{
+  "name": "GitLog Pulse - GitHub Changelog & Email Generator",
+  "description": "Fetch GitHub commits, auto-categorize into clean release notes, edit in interactive Markdown, and preview email-ready newsletters.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
